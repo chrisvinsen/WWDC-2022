@@ -16,7 +16,7 @@ This app was made because of my personal anxiety which is also a submission for 
 
 ## App Screenshots
 
-![Main Menu](/Resources/AppScreenshot/1.%20Main%20Menu.png?raw=true =x250 "Main Menu")
+![Main Menu]<img src="/Resources/AppScreenshot/1.%20Main%20Menu.png" width="300">
 ![Stage Easy](/Resources/AppScreenshot/2.%20Stage%20Easy.png?raw=true "Stage Easy")
 ![Stage Medium](/Resources/AppScreenshot/3.%20Stage%20Medium.png?raw=true "Stage Medium")
 ![Stage Hard](/Resources/AppScreenshot/4.%20Stage%20Hard.png?raw=true "Stage Hard")
