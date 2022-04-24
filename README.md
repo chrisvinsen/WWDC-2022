@@ -16,11 +16,11 @@ This app was made because of my personal anxiety which is also a submission for 
 
 ## App Screenshots
 
-![Main Menu](/Resources/AppScreenshot/1.%20Main%20Menu.png =250x)
-![Stage Easy](/Resources/AppScreenshot/2.%20Stage%20Easy.png =250x)
-![Stage Medium](/Resources/AppScreenshot/3.%20Stage%20Medium.png =250x)
-![Stage Hard](/Resources/AppScreenshot/4.%20Stage%20Hard.png =250x)
-![Stage Expert](/Resources/AppScreenshot/5.%20Stage%20Expert.png =250x)
+<img src="/Resources/AppScreenshot/1.%20Main%20Menu.png" width="300" alt="Main Menu">
+<img src="/Resources/AppScreenshot/2.%20Stage%20Easy.png" width="300" alt="Stage Easy">
+<img src="/Resources/AppScreenshot/3.%20Stage%20Medium.png" width="300" alt="Stage Medium">
+<img src="/Resources/AppScreenshot/4.%20Stage%20Hard.png" width="300" alt="Stage Hard">
+<img src="/Resources/AppScreenshot/5.%20Stage%20Expert.png" width="300" alt="Stage Expert">
 
 
 ## Thanks to
